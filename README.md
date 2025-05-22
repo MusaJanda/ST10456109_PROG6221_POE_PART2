@@ -120,4 +120,4 @@ This project is open-source and available under the [MIT License](LICENSE.md)
 
 ## Contact
 
-For any questions or suggestions, please contact [Musa Janda/ST10456109@imconnect.edu.za/GitHub Profile Link].
+For any questions or suggestions, please contact [Musa Janda/ST10456109@imconnect.edu.za/https://github.com/MusaJanda/ST10456109_PROG6221_POE_PART2.git].
