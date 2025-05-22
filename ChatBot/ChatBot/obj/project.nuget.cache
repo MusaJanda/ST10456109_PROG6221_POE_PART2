@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDiSlU3F1FM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\ChatBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.4\\microsoft.win32.systemevents.9.0.4.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.drawing.common\\9.0.4\\system.drawing.common.9.0.4.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.windows.extensions\\9.0.4\\system.windows.extensions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

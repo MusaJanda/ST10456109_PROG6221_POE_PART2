@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\chatbotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\chatbotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10456109_prodg6221_poe_part1\\chatbot\\chatbot\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B24F14A-F83B-4004-8613-F97333C9D5E5}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "ChatBot\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\AudioPlayer.cs",
+              "RelativeToolTip": "ChatBot\\AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:42:11.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Image.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Image.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Image.cs",
+              "RelativeToolTip": "ChatBot\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:39:17.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatBotData.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\ChatBotData.cs",
+              "RelativeDocumentMoniker": "ChatBot\\ChatBotData.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\ChatBotData.cs",
+              "RelativeToolTip": "ChatBot\\ChatBotData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:38:24.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Library.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Library.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Library.cs",
+              "RelativeToolTip": "ChatBot\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:37:45.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Menu.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Menu.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Menu.cs",
+              "RelativeToolTip": "ChatBot\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:36:51.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Utils.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Utils.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Utils.cs",
+              "RelativeToolTip": "ChatBot\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:35:32.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10456109_PRODG6221_POE_PART1\\ChatBot\\ChatBot\\Program.cs",
+              "RelativeToolTip": "ChatBot\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCYAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:55:03.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
